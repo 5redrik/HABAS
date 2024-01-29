@@ -1,0 +1,6 @@
+pragma solidity ^0.5.16; 
+
+contract HABAS {
+    string public name = "HABS";
+    string public symbol = "HBS";
+    uint256 public totalSupply = 400000000; // 400 million tokens
